@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bishnuthapa20
-- 👀 I’m interested in wed development
+- 👀 I’m interested in blockchain technology
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
